@@ -120,4 +120,4 @@ The scheduled command `app:send-email-to-subscriber` sends email notifications t
 
 OPTIONAL:-
 - Seeded data of the websites.
-- Open API documentation (or) Postman collection demonstrating available APIs & their usage.
+- Open API documentation (or) Postman collection demonstrating available APIs & their usage. (Inisev.postman_collection.json)
